@@ -8,16 +8,64 @@
 
 .titulo{
     text-align: center;
-    background-color: black;
+    background-color: #066297;
     color:  white;
     padding: 20px;
 }
 
-.parrafo{
+.cabeza{
     width: 50%;
     margin: auto;
     padding: 20px;
     text-align: center;
-    border: solid blue;
+   
+   
+
+}
+.imagenini{
+    padding: 20px ;
+    margin-left: 500px;
+    width: 45%;
+    height: 45%;
+}
+
+.subtitulo{
+    width: 50%;
+    margin-left: 220px;
+}
+
+.parrafo{
+    width: 25%;
+    margin-top: 50px;
+    padding: 40px;
+    padding-left: 10px;
+    text-align: right;
+    
+    float: left;
+
+}
+
+
+.logosImg{
+    float: left;
+    margin-top: 5px;
+    margin: 10px;
+    
+}
+
+.subtitulo2{
+    margin-top: 450px;
+    width: 100%;
+    text-align: center;
+    
+}
+.parrafo1{
+    width: 25%;
+    margin-top: 50px;
+    padding: 40px;
+    padding-left: 10px;
+    text-align: right;
+    
+    float: left;
 
 }
